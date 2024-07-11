@@ -1,0 +1,10 @@
+body{
+    position: fixed
+}
+
+li a {
+  display: block;
+  color: white;
+  text-decoration: none;
+}
+

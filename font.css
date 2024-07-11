@@ -1,0 +1,46 @@
+body {
+    background-color:#29465B;
+}
+
+.p{
+    font-family: sans-serif;
+    color: floralwhite;
+    font-size: 16px;
+    text-align: justify;
+}
+.font{
+    font-family: inherit;
+    text-align: justify;
+}
+h2{
+    font-family: sans-serif;
+    color: floralwhite;
+    font-size: 30px;
+    text-align: center;
+}
+h3{
+    font-family: sans-serif;
+    color: floralwhite;
+    font-size: 28px;
+    text-align: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-decoration: none;
+}
+
+form{
+    font-family: sans-serif;
+    color: white;
+    font-size: 20px;  
+    border-left: 5px solid white;
+}
+
+.q{
+    font-family:monospace;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
